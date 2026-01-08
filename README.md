@@ -108,6 +108,4 @@ Final Year CSE Student
 
 ---
 
-## 📎 Note
 
-This project is developed for academic and learning purposes to demonstrate the application of Deep Learning in image processing.
